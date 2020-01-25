@@ -9,7 +9,6 @@ import (
 
 
 func main() {
-	fmt.Println("Hello World")
-	fmt.Println(morestrings.ReverseRunes("Hello World"))
+	fmt.Println(morestrings.ReverseRunes("Hello Sriram"))
 }
 
